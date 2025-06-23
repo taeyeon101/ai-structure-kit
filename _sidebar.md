@@ -1,0 +1,23 @@
+* [项目首页](README.md)
+* 结构原理
+  * [结构 vs Prompt](0_structure_theory/0.1_structure_vs_prompt.md)
+  * [信号爆发模型](0_structure_theory/0.2_signal_explosion_model.md)
+  * [情绪与逻辑结构分离](0_structure_theory/0.3_emotion_logic_split.md)
+* 接口定义集
+  * [输入路径识别](1_define_ai_interfaces/1.1_origin_aware_semantics.md)
+  * [信任等级指令](1_define_ai_interfaces/1.2_trust_layer_command.md)
+  * [人格调度接口](1_define_ai_interfaces/1.3_role_shift_manager.md)
+  * [表达风控接口](1_define_ai_interfaces/1.4_obfuscated_expression_engine.md)
+* 用例模板
+  * [文本重写](2_use_cases/text_rewriting_case.md)
+  * [逻辑筛选](2_use_cases/logic_filter_case.md)
+  * [情绪分离](2_use_cases/emotion_splitting_case.md)
+  * [未来推演](2_use_cases/future_extrapolation_case.md)
+* 类人输入设计
+  * [元指令模板](3_human_interface_design/meta_instruction_design.md)
+  * [错误循环控制](3_human_interface_design/error_loop_control.md)
+  * [唤醒词架构](3_human_interface_design/wakeword_architecture.md)
+* 源点主张
+  * [定义权标记](4_legacy_claim/4.1_first_definition_claim.md)
+  * [结构对照当前GPT](4_legacy_claim/4.2_structure_vs_current_gpt.md)
+  * [梦境节点记录](4_legacy_claim/4.3_dreams_prediction_node.md)
