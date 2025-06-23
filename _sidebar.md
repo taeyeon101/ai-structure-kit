@@ -1,9 +1,11 @@
 * [项目首页](README.md)
 * 结构原理（部分完成）
+  * [结构原理](0_structure_theory/structure_theory.md)
   * [结构 vs Prompt](0_structure_theory/0.1_structure_vs_prompt.md)
   * [信号爆发模型](0_structure_theory/0.2_signal_explosion_model.md)
   * [情绪与逻辑结构分离](0_structure_theory/0.3_emotion_logic_split.md)
 * 接口定义集（部分完成）
+  * [接口定义](1_define_ai_interfaces/define_ai_interfaces.md)
   * [输入路径识别](1_define_ai_interfaces/1.1_origin_aware_semantics.md)
   * [信任等级指令](1_define_ai_interfaces/1.2_trust_layer_command.md)
   * [人格调度接口](1_define_ai_interfaces/1.3_role_shift_manager.md)
